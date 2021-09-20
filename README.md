@@ -27,9 +27,8 @@
 
 
 
+![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravjanyani&theme=highcontrast&show_icons=true)
+[![Gourav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gouravjanyani&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravjanyani&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouravjanyani&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouravjanyani&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gouravjanyani&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gouravjanyani&theme=dracula)
+
+
